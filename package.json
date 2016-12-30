@@ -1,7 +1,7 @@
 {
   "name": "angular_setup",
   "version": "0.0.1",
-  "description": "",
+  "description": "Angular JS 1.6.1 Setup with routes",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
